@@ -7,7 +7,8 @@
  * and open the template in the editor.
  */
 
-echo "just a test file"; 
+echo "just a test file <BR><BR>"; 
+echo "this was a change"; 
 echo "<BR><A HREF='test-file2.php'>Link to test file 2</A>"; 
 echo "Here is some more text<BR>";
 echo "Foobar<BR>"; 
