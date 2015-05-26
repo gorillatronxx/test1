@@ -8,5 +8,6 @@
 
 echo "this is test file #2"; 
 echo "fofofofof";
+echo "another test"; 
 
 
